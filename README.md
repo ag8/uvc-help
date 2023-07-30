@@ -21,3 +21,10 @@ Thank you!!
 |   900  | [this could be you!]       |
 |   1200  | [this could be you!]       |
 |   1500  | [this could be you!]       |
+
+
+### Troubleshooting
+
+#### `ValueError: There is no such driver by url https://chromedriver.storage.googleapis.com/LATEST_RELEASE_115.0.5790`
+
+Replace line 14 with `chrome_path = ChromeDriverManager(version='114.0.5735.198').install()`.
