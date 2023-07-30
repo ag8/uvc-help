@@ -16,6 +16,8 @@ Thank you!!
 | Offset | Person       |
 |-------:|-------------|
 |   0    | [this could be you!]         |
-|   450  | [this could be you!]       |
+|   300  | [this could be you!]       |
+|   600  | [this could be you!]       |
 |   900  | [this could be you!]       |
-|   1350  | [this could be you!]       |
+|   1200  | [this could be you!]       |
+|   1500  | [this could be you!]       |
