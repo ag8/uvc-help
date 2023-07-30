@@ -32,3 +32,7 @@ Replace line 14 with `chrome_path = ChromeDriverManager(version='114.0.5735.198'
 #### My version of Chrome is too new!
 
 You can use firefox instead, by running `chemscrape_based_ff.py` instead of `chemscrape_based.py`
+
+#### I'm getting a `selenium.common.exceptions.ElementClickInterceptedException`
+
+You should accept the cookies banner once the browser window opens
